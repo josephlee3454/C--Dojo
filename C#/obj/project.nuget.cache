@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HtFMrrbPRm2Z6qBRvXgQJVR9OW7bwhQuSCSF5p+tWlAK9xH9QgH6wOvuuxvfoNtqdxymH11/sCij6vhgxcWdcQ==",
+  "dgSpecHash": "5ozhlOdlFDQpUFxP1utahc68yBn1lcFQ58YcjfqDuIlX90J6r3pTW8NlyC1A4fEHznyljN/rZof4KU+TgC9QTA==",
   "success": true,
-  "projectFilePath": "/home/owner/dojo/myfirstdotnet/myfirstdotnet.csproj",
+  "projectFilePath": "/home/owner/dojo/c#/C#/myfirstdotnet.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

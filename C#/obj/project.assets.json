@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/owner/dojo/myfirstdotnet/myfirstdotnet.csproj",
+      "projectUniqueName": "/home/owner/dojo/c#/C#/myfirstdotnet.csproj",
       "projectName": "myfirstdotnet",
-      "projectPath": "/home/owner/dojo/myfirstdotnet/myfirstdotnet.csproj",
+      "projectPath": "/home/owner/dojo/c#/C#/myfirstdotnet.csproj",
       "packagesPath": "/home/owner/.nuget/packages/",
-      "outputPath": "/home/owner/dojo/myfirstdotnet/obj/",
+      "outputPath": "/home/owner/dojo/c#/C#/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/owner/.nuget/NuGet/NuGet.Config"
